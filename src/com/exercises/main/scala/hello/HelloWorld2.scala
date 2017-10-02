@@ -1,3 +1,3 @@
-object HelloWord2 extends App{
+object HelloWorld2 extends App{
   println("Hello, world 2")
 }
